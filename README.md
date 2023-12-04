@@ -1,4 +1,4 @@
-Hi 👋 My name is Irima Samarasinghe
+Hi 👋 I'm Irima Samarasinghe
 ===============================
 
 Undergraduate of Bachelor's in ICT honors,passionate about computer science,networking,and emerging technologies
